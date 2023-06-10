@@ -1,4 +1,4 @@
-For running the project:
+To RUN:
 
 # 1. Clone this repo
 # 2. Run `npm install`
