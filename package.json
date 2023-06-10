@@ -1,7 +1,7 @@
 {
   "name": "reactapp",
   "version": "0.1.0",
-  "homepage": "https://joshibibek5.github.io/reactapp",
+  "homepage": "https://joshibibek5.github.io/reactapp-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
