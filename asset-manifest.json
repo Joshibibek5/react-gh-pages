@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ae5607bb.css",
-    "main.js": "/react-gh-pages/static/js/main.a1dbd0e1.js",
+    "main.css": "/react-gh-pages/static/css/main.73445bd5.css",
+    "main.js": "/react-gh-pages/static/js/main.433ecb01.js",
     "static/js/787.5480e000.chunk.js": "/react-gh-pages/static/js/787.5480e000.chunk.js",
+    "static/media/SEGA.woff": "/react-gh-pages/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/react-gh-pages/index.html",
-    "main.ae5607bb.css.map": "/react-gh-pages/static/css/main.ae5607bb.css.map",
-    "main.a1dbd0e1.js.map": "/react-gh-pages/static/js/main.a1dbd0e1.js.map",
+    "main.73445bd5.css.map": "/react-gh-pages/static/css/main.73445bd5.css.map",
+    "main.433ecb01.js.map": "/react-gh-pages/static/js/main.433ecb01.js.map",
     "787.5480e000.chunk.js.map": "/react-gh-pages/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae5607bb.css",
-    "static/js/main.a1dbd0e1.js"
+    "static/css/main.73445bd5.css",
+    "static/js/main.433ecb01.js"
   ]
 }
